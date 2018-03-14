@@ -15,4 +15,7 @@
 * [浏览器缓存 Last-Modified、ETag、Expires和Cache-Control](https://www.cnblogs.com/zhouwenhong/p/3928645.html)
 * [Last-Modified、ETag、Expires和Cache-Control](https://www.cnblogs.com/gaobing/p/5687962.html)
 * [布局 规范 插件](http://nec.netease.com)
-
+* [浩老板的github]( https://github.com/arronf2e/blog)
+* [林的github](https://github.com/nossika/little-vue)
+* [react 文档](https://doc.react-china.org/docs/hello-world.html)
+* 
