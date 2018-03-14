@@ -18,4 +18,12 @@
 * [浩老板的github]( https://github.com/arronf2e/blog)
 * [林的github](https://github.com/nossika/little-vue)
 * [react 文档](https://doc.react-china.org/docs/hello-world.html)
+* [常见的面试](https://segmentfault.com/a/1190000009662029)
+* [MVC](https://github.com/livoras/blog/issues/11)
+* [时间](http://blog.csdn.net/hot_cool/article/details/74178292)
+* [split splice](https://www.cnblogs.com/webjoker/p/5218114.html)
+* [ES6展开运算符](https://segmentfault.com/a/1190000007022442)
+* [浏览器多进程 js 单线程 前端扫盲必备](https://segmentfault.com/a/1190000012925872) [进程是cpu 资源分配的最小单位，线层是cpu 调度的最小单位]
+* [数组去重的总结](http://www.jb51.net/article/118657.htm)
+* [在线编程](https://cnodejs.org/topic/55c1b2702e31588236506f88)
 * 
