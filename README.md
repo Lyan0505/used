@@ -26,4 +26,9 @@
 * [浏览器多进程 js 单线程 前端扫盲必备](https://segmentfault.com/a/1190000012925872) [进程是cpu 资源分配的最小单位，线层是cpu 调度的最小单位]
 * [数组去重的总结](http://www.jb51.net/article/118657.htm)
 * [在线编程](https://cnodejs.org/topic/55c1b2702e31588236506f88)
+* [学习入口](https://segmentfault.com/u/zenggy)
+* [闭包](http://blog.csdn.net/qq_29066959/article/details/50803576)
+* [数组的常用的方法](http://blog.csdn.net/kongjunchao159/article/details/64914914)
+* [深copy 浅copy](https://www.zhihu.com/question/23031215)
+* [移动端的各种坑]( https://github.com/RubyLouvre/mobileHack)
 * 
