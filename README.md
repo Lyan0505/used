@@ -31,4 +31,5 @@
 * [数组的常用的方法](http://blog.csdn.net/kongjunchao159/article/details/64914914)
 * [深copy 浅copy](https://www.zhihu.com/question/23031215)
 * [移动端的各种坑]( https://github.com/RubyLouvre/mobileHack)
+* [事件委托](https://www.cnblogs.com/liugang-vip/p/5616484.html)
 * 
