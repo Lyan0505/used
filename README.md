@@ -32,4 +32,4 @@
 * [深copy 浅copy](https://www.zhihu.com/question/23031215)
 * [移动端的各种坑]( https://github.com/RubyLouvre/mobileHack)
 * [事件委托](https://www.cnblogs.com/liugang-vip/p/5616484.html)
-* 
+* [自己得博客](http://lyan.webzeal.cn/)
